@@ -9,11 +9,22 @@ Thanks
 
 Insturctions
 
-You can move the camera around using
+Camera Controls
 
 WASD - forward, left, back and right respectivly.
 QE - rotate left or right
+Lshift - move down
+space - move up
+
+Fog Controls
 
 U - turn fog on
 i - turn fog off
-o - 
+o - decrease density
+p - increase density
+1 - increase red value of fog colour
+2 - increase green value of fog colour
+3 - increase blue value of fog colour
+4 - decrease red value of fog colour
+5 - decrease green value of fog colour
+6 - decrease blue value of fog colour
