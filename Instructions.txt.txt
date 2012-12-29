@@ -1,0 +1,19 @@
+29/12/2012 - Fog effect using C++ and OpenGL
+Craig McMillan - http://ramblingsofagamedevstudent.blogspot.co.uk/
+
+If you downloaded this application i would love to hear what you thought about it or if you
+found any bugs or problems. 
+email me at 10004794@napier.ac.uk with fog as the subject
+
+Thanks
+
+Insturctions
+
+You can move the camera around using
+
+WASD - forward, left, back and right respectivly.
+QE - rotate left or right
+
+U - turn fog on
+i - turn fog off
+o - 
